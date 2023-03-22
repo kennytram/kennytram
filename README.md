@@ -7,7 +7,7 @@
 
 <picture>  <img align="right" src="rubber-ducky.gif" width="350" /> </picture>
 
-- 🔭 I’m currently working on **MockCord**
+- 🔭 I’m currently working on a personal project called **MockCord**
 
 
 
