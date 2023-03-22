@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **kennyvtram@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr){:target="_blank"}
 
-- 🔗 Want to connect? Find me on [Linkedin](https://linkedin.com/in/kennytram/)
+- 🔗 Want to connect? Find me on [Linkedin](https://linkedin.com/in/kennytram/){:target="_blank"}
 
 - ⚡ Fun fact **I love playing Mario platform games!** <picture> <img align="center"  width="40" height="40" src="mario.png"/> </picture>
 
