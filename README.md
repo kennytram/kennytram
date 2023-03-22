@@ -17,7 +17,7 @@
 
 - 🔗 Want to connect? Find me on [Linkedin](https://linkedin.com/in/kennytram/)
 
-- ⚡ Fun fact **I love playing Mario platform games!** 🍄
+- ⚡ Fun fact **I love playing Mario platform games!** <picture> <img align="center"  width="40" height="40" src="mario.png"/> </picture>
 
 
 <h3 align="left">Languages and Tools:</h3>
