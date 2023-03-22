@@ -36,6 +36,6 @@
 
 
 ### My Current Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytram&layout=compact&theme=transparent&border_color=99aab5)
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennytram&show_icons=true&theme=transparent&border_color=99aab5)
+<picture> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytram&layout=compact&theme=transparent&border_color=99aab5) </picture>
+<picture> ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennytram&show_icons=true&theme=transparent&border_color=99aab5) </picture>
 
