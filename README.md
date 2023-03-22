@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Resume</a>
 
-- 🔗 Want to connect? Find me on <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Linkedin</a>
+- 🔗 Want to connect? Find me on <a href= "https://www.linkedin.com/in/kennytram/" target="_blank">Linkedin</a>
 
 - ⚡ Fun fact **I love playing Mario platform games!** <picture> <img align="center"  width="40" height="40" src="mario.png"/> </picture>
 
