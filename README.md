@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello World, I'm Kenny 👋</h1>
-![Header](kenny-tram-header.png)
+<h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Full Stack Web Development, with a Bachelor's degree in Computer Science! </h4>
 
 ### About Me
 
