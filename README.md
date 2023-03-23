@@ -3,21 +3,17 @@
 <h1 align="center">Hello World, I'm Kenny 👋</h1>
 <h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Full Stack Web Development, with a Bachelor's degree in Computer Science! </h4>
 
-### About Me
+### About Me:
 
 <picture>  <img align="right" src="rubber-ducky.gif" width="350" /> </picture>
 
 - 🔭 I’m currently working on a personal project called **MockCord**
-
-
 
 - 🌱 I’m currently learning **WebSocket**
 
 - 💬 Ask me about **React, Redux, JavaScript (ES6), and Ruby**
 
 - 📫 How to reach me **kennyvtram@gmail.com**
-
-
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Resume</a>
 
@@ -39,3 +35,5 @@
 <picture> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytram&layout=compact&theme=transparent&border_color=99aab5) </picture>
 <picture> ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennytram&show_icons=true&theme=transparent&border_color=99aab5) </picture>
 
+### Random Joke: 
+<picture> ![Jokes Card](https://readme-jokes.vercel.app/api) </picture>
