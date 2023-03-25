@@ -9,15 +9,11 @@
 
 - 🔭 I’m currently working on a personal project called **MockCord**
 
-
-
 - 🌱 I’m currently learning **WebSocket**
 
 - 💬 Ask me about **React, Redux, JavaScript (ES6), and Ruby**
 
 - 📫 How to reach me **kennyvtram@gmail.com**
-
-
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Resume</a>
 
