@@ -1,11 +1,13 @@
 
 
 <h1 align="center">Hello World, I'm Kenny 👋</h1>
-<h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Full Stack Web Development, with a Bachelor's degree in Computer Science! </h4>
+<h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Full Stack Web Development, with a passion for eating 🍣</h4>
 
 ### About Me
 
 <img align="right" src="rubber-ducky.gif" width="350" />
+
+- 🎓 I have a **Bachelor's degree in Computer Science**
 
 - 🔭 I’m currently working on a personal project called **MockCord**
 
