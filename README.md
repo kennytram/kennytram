@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a personal project called **MockCord**
 
-- 🌱 I’m currently learning **WebSocket**
+- 🌱 I’m currently learning **WebRTC and WebSocket**
 
 - 💬 Ask me about **React, Redux, JavaScript (ES6), and Ruby**
 
