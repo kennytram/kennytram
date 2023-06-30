@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a community project called **Team Forward**
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning **AWS and DevOps**
 
 - 💬 Ask me about **React, Redux, JavaScript (ES6), and Ruby**
 
