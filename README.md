@@ -9,7 +9,7 @@
 
 - 🎓 I have a **Bachelor's degree in Computer Science**
 
-- 🔭 I’m currently working on a community project called **Team Forward**
+- 🔭 I’m currently working on a fullstack project called **MockCord**
 
 - 🌱 I’m currently learning **AWS and DevOps**
 
