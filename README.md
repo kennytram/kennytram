@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on a team project based on **Icebreaker**
 
-- 🌱 I’m currently learning **AWS and DevOps**
+- 🌱 I’m currently learning **how some of the popular technologies are built from scratch**
 
-- 💬 Ask me about **React, Redux, JavaScript (ES6), and Ruby**
-
-- 📫 How to reach me **kennyvtram@gmail.com**
+- 📫 How to reach me **kennyv.tram@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Resume</a>
 
