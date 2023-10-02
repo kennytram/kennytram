@@ -9,9 +9,9 @@
 
 - 🎓 I have a **Bachelor's degree in Computer Science**
 
-- 🔭 I’m currently working on a team project based on **Icebreaker**
+- 🔭 I’m currently working on an onboarding automation project that works with **Google Tables**
 
-- 🌱 I’m currently learning **how some of the popular technologies are built from scratch**
+- 🌱 I’m currently learning **clean code designs.**
 
 - 📫 How to reach me **kennyv.tram@gmail.com**
 
