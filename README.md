@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on an onboarding automation project that works with **Google Tables**
 
-- 🌱 I’m currently learning **clean code designs.**
+- 🌱 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.**
 
 - 📫 How to reach me **kennyv.tram@gmail.com**
 
