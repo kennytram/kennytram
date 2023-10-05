@@ -9,7 +9,7 @@
 
 - 🎓 I have a **Bachelor's degree in Computer Science**
 
-- 🔭 I’m currently working on an onboarding automation project that works with **Google Tables**
+- 🔭 I’m currently working on an **onboarding automation** project that works with several Google APIs and others.
 
 - 🌱 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.**
 
