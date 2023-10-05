@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kennyv.tram@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unrsP3ef3GxcewsX_MbrzQnyIWxqqUbr" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15cePIPSea4qKr-PcMBkJXvDCX4egjpDu" target="_blank">Resume</a>
 
 - 🔗 Want to connect? Find me on <a href= "https://www.linkedin.com/in/kennytram/" target="_blank">Linkedin</a>
 
