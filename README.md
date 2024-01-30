@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello World, I'm Kenny 👋</h1>
-<h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Back-end Web Development, with a passion for eating sushi 🍣</h4>
+<h4 align="center" style="font-size: 30px;">A Software Engineer, specializing in Back-end Web Development</h4>
 
 ### About Me
 
