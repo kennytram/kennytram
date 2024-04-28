@@ -33,6 +33,3 @@
 <a href="https://github.com/kennytram/kennytram">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennytram&layout=compact&theme=transparent&border_color=99aab5" />
 </a>
-<a href="https://github.com/kennytram/kennytram">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=kennytram&show_icons=true&line_height=27&theme=transparent&border_color=99aab5" alt="Kenny's GitHub Stats" />
-</a>
