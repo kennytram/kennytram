@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kennyv.tram@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15cePIPSea4qKr-PcMBkJXvDCX4egjpDu" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p7W2kt9QHntnBRtim_donRYYV2Gxt6xJ" target="_blank">Resume</a>
 
 - ⚡ Fun fact **I love playing Mario platform games!** <img align="center"  width="40" height="40" src="mario.png"/>
 
