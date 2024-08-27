@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p7W2kt9QHntnBRtim_donRYYV2Gxt6xJ" target="_blank">Resume</a>
 
-- ⚡ Fun fact **I love playing Mario platform games!** <img align="center"  width="40" height="40" src="mario.png"/>
-
 - 🔗 Want to connect? Find me on <a href= "https://www.linkedin.com/in/kennytram/" target="_blank">Linkedin</a>
 
 <h3 align="left">Languages and Tools:</h3>
